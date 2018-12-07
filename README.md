@@ -1,6 +1,6 @@
 ### FusionTwoCamerasFrames
 Fusion (blender) are frames of color video and frames of infra video in real-time .<br> 
-Image processing to be useing OpenCV ! Version is 3.1.0.<br>
+Image processing to be using OpenCV ! Version is 3.1.0.<br>
 ### Installation
 Microsoft Visual Studio Community C++ 2015, Update 3.<br>
 Open "FusionTwoCamerasFrames.sln".
